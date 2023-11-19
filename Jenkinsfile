@@ -44,6 +44,7 @@ pipeline{
                }
             }
         }
+        // Commented for practice
         //stage('Static code analysis: Sonarqube'){
         // when { expression {  params.action == 'create' } }
         //    steps{
